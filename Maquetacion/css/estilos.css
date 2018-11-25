@@ -1,0 +1,26 @@
+h1{
+color:white;
+text-align:center;
+}
+.regla1 {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:20px;
+	background-color:red;
+	color:#CCC;
+	text-align:center;
+	padding:25px 10px;
+	position:absolute;
+	top:100px;
+	left:200px;
+}
+#regla2{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:20px;
+	background-color:blue;
+	color:#CCC;
+	text-align:center;
+	padding:25px 10px;
+	position:absolute;
+	/*top:100px;*/
+	left:400px;
+}
