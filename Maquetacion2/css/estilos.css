@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+.marca{
+border-color:#99C;
+border-style:dotted;
+	
+}
+
+ul{
+list-style-type:none;
+width:100%;	
+}
+
+li{
+display:inline-block;
+width:20%;
+}
+
+.bo{
+font-size:9px;	
+}
+
+
